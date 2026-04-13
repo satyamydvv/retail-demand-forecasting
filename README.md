@@ -50,9 +50,5 @@ Developed a Random Forest-based forecasting engine that:
 ### Graph
 ![Graph](assets/graph.png)
 
-## ▶️ Run Locally
-```bash
-git clone <repo>
-cd retail-demand-forecasting
-pip install -r requirements.txt
-streamlit run app.py
+## ▶️ Run online
+https://retail-demand-forecasting-wcnqfu5wgtnlmxqisbppxu.streamlit.app/
