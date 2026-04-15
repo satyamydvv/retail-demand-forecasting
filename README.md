@@ -9,7 +9,7 @@ This project demonstrates how simple feature engineering can significantly impro
 
 # Retail Demand Forecasting Engine 📈
 
-## 🚀 Overview
+##  Overview
 Built a machine learning system to forecast retail product demand using historical sales data, pricing signals, and time-based features.
 
 ## 🎯 Problem
@@ -18,7 +18,7 @@ Retailers struggle with:
 - Stockouts
 - Poor demand planning
 
-## 🧠 Solution
+##  Solution
 Developed a Random Forest-based forecasting engine that:
 - Captures temporal patterns
 - Uses lag and rolling features
