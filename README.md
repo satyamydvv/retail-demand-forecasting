@@ -50,7 +50,7 @@ Developed a Random Forest-based forecasting engine that:
 ### Graph
 ![Graph](assets/graph.png)
 
-###Model Performance
+##Model Performance
     -Accuracy: ~85%
     -ROC-AUC Score: ~0.93
     -Balanced Precision-Recall PerformancE
